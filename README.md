@@ -5,6 +5,7 @@
 IntelliSolve is an advanced AI-powered educational platform designed to provide interactive learning experiences through real-time video, screen capture, and AI-generated visualizations.
 
 ![IntelliSolve Banner](./screenshot.png)
+![IntelliSolve Banner](./screenshot2.png)
 
 
 ## Features
